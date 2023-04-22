@@ -6,7 +6,7 @@ AI Summarizer é um projeto que utiliza a API do [Article Extractor an Summarize
 
 ## Funcionalidades:
 
-- [x] Colar url de um site qualquer
+- [x] Copuar url de um site qualquer
 - [x] Colar texto no AI Summarizer
 - [x] AI Summarizer gera um resumo do site
 - [x] Salva a busca dos 5 últimos sites
